@@ -1,1 +1,1 @@
-# wedding-rsvp
+# Simple site for wedding RSVPs
